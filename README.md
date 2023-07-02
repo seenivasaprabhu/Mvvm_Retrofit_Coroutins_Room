@@ -12,15 +12,20 @@
 * Repository
 * Hilt
 * ViewModel
+* Kotlin
 
-### Design Patterns
+### Design Patterns and Concepts
 * Singleton
-* Hilt
+* Dependency Injection
+* Repository
+* Offline Storage
 
-#### Plan Statregy
-* Offline Diew View
+#### Plan Strategy
+* Offline Data View
 * Repository
 * Server to database
 * database to view
 * Network Monitor
+* Type Conversion
+* Generics Patterns
   
