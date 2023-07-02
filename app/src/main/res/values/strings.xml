@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Thapovan</string>
+   
+ <string name="app_bar">Health Check</string>
+
+<string name="connection">Connection</string>
+
+<string name="delete">Delete</string>
+    <string name="header">DB</string>
+
+<string name="read">Read</string>
+
+<string name="write">Write</string>
+
+<string name="connection_close">Connection Close</string>
+
+<string name="_true">True</string>
+
+<string name="_false">False</string>
+    <string name="health_check">Health Check</string>
+    <string name="no_internet">You are in offline</string>
+
+</resources>
